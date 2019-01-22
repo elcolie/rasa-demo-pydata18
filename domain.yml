@@ -7,10 +7,6 @@ intents:
 - mood_great
 - mood_unhappy
 
-slots:
-  img_api_response:
-    type: unfeaturized
-
 actions:
 - utter_greet
 - utter_cheer_up
@@ -18,14 +14,13 @@ actions:
 - utter_happy
 - utter_goodbye
 - utter_unclear
-- __main__.ApiAction
 
 templates:
   utter_greet:
   - text: "Hey! How are you?"
 
   utter_cheer_up:
-  - text: "Here is something to cheer you up: {img_api_response}"
+  - text: "Here is something to cheer you up: summer is around the corner!"
 
   utter_did_that_help:
   - text: "Did that help you?"

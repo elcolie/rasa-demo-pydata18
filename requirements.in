@@ -1,0 +1,7 @@
+# pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
+rasa_nlu[spacy]
+rasa_core
+spacy
+jupyter
+ipython
+ipdb

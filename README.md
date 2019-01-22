@@ -1,3 +1,8 @@
+# Installation
+1. `python 3.6.8`
+1. Install dependencies one by one in the `requirements.in` manually
+1. `jupyter notebook`
+
 # Conversational AI with Rasa NLU and Core
 Demo application for the PyData Conference in Amsterdam 2018
 

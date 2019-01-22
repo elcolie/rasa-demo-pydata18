@@ -20,7 +20,7 @@
 - cee you later
 - good night
 - good afternoon
-- bye
+- bye, from [Peter](PERSON)
 - goodbye
 - have a nice day
 - see you around
